@@ -1,5 +1,5 @@
 **Eng:**
-**Spicetify Commander**
+# Spicetify Commander
 Spicetify Commander is a command-line tool that simplifies managing and customizing Spotify using Spicetify. With an intuitive interface, you can install, update, restore, and apply settings effortlessly—all from the command line.
 
 Features
