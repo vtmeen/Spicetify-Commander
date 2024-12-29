@@ -1,4 +1,4 @@
-**Eng:**
+### **Eng:**
 # Spicetify Commander
 ![Preview](https://github.com/vtmeen/Spicetify-Commander/blob/main/Preview%20Eng.png)
 
@@ -15,7 +15,7 @@ Apply Settings: Instantly apply your custom configurations.
 Restore Defaults: Remove extensions or fix issues by restoring backups.
 Update Spicetify: Stay up-to-date with the latest features and fixes.**
 
-**Ru:**
+### **Ru:**
 # Spicetify Commander
 ![Preview](https://github.com/vtmeen/Spicetify-Commander/blob/main/Preview%20Ru.png)
 
