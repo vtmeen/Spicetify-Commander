@@ -10,7 +10,7 @@ Restore Defaults: Remove extensions or fix issues by restoring backups.
 Update Spicetify: Stay up-to-date with the latest features and fixes.
 
 **Ru:**
-**Spicetify Commander**
+# Spicetify Commander
 
 Spicetify Commander — это инструмент командной строки, который упрощает управление и настройку Spotify с помощью Spicetify. С интуитивно понятным интерфейсом вы можете устанавливать, обновлять, восстанавливать и применять настройки без усилий — всё через командную строку.
 
