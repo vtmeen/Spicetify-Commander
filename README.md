@@ -1,3 +1,4 @@
+**Hello there👋!** This is Spicetify Commander — a handy tool for managing Spicetify commands right from the command line.
 ### **Eng:**
 # Spicetify Commander
 ![Preview](https://github.com/vtmeen/Spicetify-Commander/blob/main/Preview%20Eng.png)
