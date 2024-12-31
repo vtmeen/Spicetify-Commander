@@ -10,7 +10,7 @@
 # Preview — This is what happens if you enter the wrong command number:
 ![Eng-2](https://github.com/user-attachments/assets/fc565362-43c3-4c2d-8239-af4d0b511ee0)
 
-**Features
+## Features
 Install Spicetify CLI: Quickly set up Spicetify.
 Install Marketplace: Add themes, extensions, and more.
 Apply Settings: Instantly apply your custom configurations.
@@ -30,7 +30,7 @@ Update Spicetify: Stay up-to-date with the latest features and fixes.**
 # Preview — Вот что происходит, если ввести неправильную цифру команды:
 ![Preview-ru-2](https://github.com/user-attachments/assets/8e75e777-a288-416f-8d82-69eb7550c8c8)
 
-**Особенности:
+## Особенности:
 Установить Spicetify CLI: Быстрая настройка Spicetify.
 Установить Marketplace: Добавляйте темы, расширения и многое другое.
 Применить настройки: Мгновенно применяйте ваши пользовательские конфигурации.
