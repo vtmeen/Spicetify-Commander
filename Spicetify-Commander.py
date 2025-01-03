@@ -1,4 +1,4 @@
-import os 
+import os  
 
 def main():
     commands = {
@@ -7,7 +7,8 @@ def main():
         "3": {"description": "Apply Settings", "command": "spicetify apply"},
         "4": {"description": "Remove Installed Extensions", "command": "spicetify restore"},
         "5": {"description": "Restore Functionality After Errors", "command": "spicetify backup apply"},
-        "6": {"description": "Update Spicetify", "command": "spicetify update"},
+        "6": {"description": "Restore from Backup", "command": "spicetify restore backup"},
+        "7": {"description": "Update Spicetify", "command": "spicetify update"},
     }
 
     while True:
@@ -23,7 +24,7 @@ def main():
             os.system(f"powershell -Command \"{command}\"")
             break 
         else:
-            print("Invalid choice. Please enter a number between 1 and 6.")
+            print("Invalid choice. Please enter a number between 1 and 7.")
 
 if __name__ == "__main__":
     main()
