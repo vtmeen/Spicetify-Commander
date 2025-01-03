@@ -6,7 +6,7 @@ def main():
         "2": {"description": "Установка Marketplace для Spicetify", "command": "iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.ps1 | iex"},
         "3": {"description": "Применение настроек", "command": "spicetify apply"},
         "4": {"description": "Удаление установленных расширений", "command": "spicetify restore"},
-        "5": {"description": "Восстановление работы при сбоях", "command": "spicetify restore backup"},
+        "5": {"description": "Восстановление работы при сбоях", "command": "spicetify backup apply"},
         "6": {"description": "Обновление Spicetify", "command": "spicetify update"},
     }
 
