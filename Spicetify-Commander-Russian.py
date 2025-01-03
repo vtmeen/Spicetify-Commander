@@ -7,7 +7,8 @@ def main():
         "3": {"description": "Применение настроек", "command": "spicetify apply"},
         "4": {"description": "Удаление установленных расширений", "command": "spicetify restore"},
         "5": {"description": "Восстановление работы при сбоях", "command": "spicetify backup apply"},
-        "6": {"description": "Обновление Spicetify", "command": "spicetify update"},
+        "6": {"description": "Восстановить из бэкапа", "command": "spicetify restore backup"},
+        "7": {"description": "Обновление Spicetify", "command": "spicetify update"},
     }
 
     while True:
